@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="6" />
+      <node id="2" label="6" />
+      <node id="3" label="6" />
+      <node id="4" label="6" />
+      <node id="5" label="6" />
+      <node id="6" label="6" />
+      <node id="7" label="7" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="7" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="16" />
+      <node id="19" label="8" />
+      <node id="20" label="8" />
+      <node id="21" label="7" />
+      <node id="22" label="6" />
+      <node id="23" label="9" />
+      <node id="24" label="9" />
+      <node id="25" label="8" />
+      <node id="26" label="6" />
+      <node id="27" label="1" />
+      <node id="28" label="1" />
+      <node id="29" label="1" />
+      <node id="30" label="1" />
+      <node id="31" label="1" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="36" label="1" />
+      <node id="37" label="1" />
+      <node id="38" label="1" />
+      <node id="39" label="1" />
+      <node id="40" label="1" />
+      <node id="41" label="1" />
+      <node id="12508" label="12508" />
+      <node id="12507" label="12507" />
+      <node id="12512" label="12512" />
+      <node id="12524" label="12524" />
+      <node id="12509" label="12509" />
+      <node id="12533" label="12533" />
+      <node id="12510" label="12510" />
+      <node id="12534" label="12534" />
+      <node id="12511" label="12511" />
+      <node id="12513" label="12513" />
+      <node id="12535" label="12535" />
+      <node id="12536" label="12536" />
+      <node id="12520" label="12520" />
+      <node id="12521" label="12521" />
+      <node id="12515" label="12515" />
+      <node id="12514" label="12514" />
+      <node id="12519" label="12519" />
+      <node id="12516" label="12516" />
+      <node id="12537" label="12537" />
+      <node id="12517" label="12517" />
+      <node id="12538" label="12538" />
+      <node id="12518" label="12518" />
+      <node id="12531" label="12531" />
+      <node id="12539" label="12539" />
+      <node id="12540" label="12540" />
+      <node id="12523" label="12523" />
+      <node id="12522" label="12522" />
+      <node id="12528" label="12528" />
+      <node id="12541" label="12541" />
+      <node id="12525" label="12525" />
+      <node id="12526" label="12526" />
+      <node id="12527" label="12527" />
+      <node id="12542" label="12542" />
+      <node id="12543" label="12543" />
+      <node id="12529" label="12529" />
+      <node id="12530" label="12530" />
+      <node id="12544" label="12544" />
+      <node id="12532" label="12532" />
+      <node id="12545" label="12545" />
+      <node id="12546" label="12546" />
+      <node id="12547" label="12547" />
+    </nodes>
+    <edges>
+      <edge id="0" source="12508" target="12507" />
+      <edge id="1" source="12508" target="12509" />
+      <edge id="2" source="12508" target="12533" />
+      <edge id="3" source="12507" target="12512" />
+      <edge id="4" source="12507" target="12524" />
+      <edge id="5" source="12512" target="12511" />
+      <edge id="6" source="12512" target="12536" />
+      <edge id="7" source="12524" target="12525" />
+      <edge id="8" source="12524" target="12526" />
+      <edge id="9" source="12524" target="12527" />
+      <edge id="10" source="12509" target="12510" />
+      <edge id="11" source="12509" target="12534" />
+      <edge id="12" source="12510" target="12511" />
+      <edge id="13" source="12510" target="12513" />
+      <edge id="14" source="12511" target="12535" />
+      <edge id="15" source="12513" target="12520" />
+      <edge id="16" source="12513" target="12521" />
+      <edge id="17" source="12520" target="12514" />
+      <edge id="18" source="12520" target="12523" />
+      <edge id="19" source="12521" target="12522" />
+      <edge id="20" source="12515" target="12514" />
+      <edge id="21" source="12515" target="12516" />
+      <edge id="22" source="12515" target="12537" />
+      <edge id="23" source="12514" target="12519" />
+      <edge id="24" source="12519" target="12518" />
+      <edge id="25" source="12519" target="12540" />
+      <edge id="26" source="12516" target="12517" />
+      <edge id="27" source="12516" target="12538" />
+      <edge id="28" source="12517" target="12518" />
+      <edge id="29" source="12517" target="12531" />
+      <edge id="30" source="12518" target="12539" />
+      <edge id="31" source="12531" target="12532" />
+      <edge id="32" source="12523" target="12522" />
+      <edge id="33" source="12523" target="12541" />
+      <edge id="34" source="12522" target="12528" />
+      <edge id="35" source="12528" target="12529" />
+      <edge id="36" source="12528" target="12530" />
+      <edge id="37" source="12528" target="12544" />
+      <edge id="38" source="12527" target="12542" />
+      <edge id="39" source="12527" target="12543" />
+      <edge id="40" source="12532" target="12545" />
+      <edge id="41" source="12532" target="12546" />
+      <edge id="42" source="12532" target="12547" />
+    </edges>
+  </graph>
+</gexf>

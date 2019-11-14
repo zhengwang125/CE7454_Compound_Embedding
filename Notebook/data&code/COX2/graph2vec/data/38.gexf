@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="6" />
+      <node id="2" label="7" />
+      <node id="3" label="6" />
+      <node id="4" label="6" />
+      <node id="5" label="7" />
+      <node id="6" label="6" />
+      <node id="7" label="6" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="6" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="6" />
+      <node id="19" label="9" />
+      <node id="20" label="9" />
+      <node id="21" label="9" />
+      <node id="22" label="16" />
+      <node id="23" label="8" />
+      <node id="24" label="8" />
+      <node id="25" label="6" />
+      <node id="26" label="1" />
+      <node id="27" label="1" />
+      <node id="28" label="1" />
+      <node id="29" label="1" />
+      <node id="30" label="1" />
+      <node id="31" label="1" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="36" label="1" />
+      <node id="37" label="1" />
+      <node id="38" label="1" />
+      <node id="1645" label="1645" />
+      <node id="1644" label="1644" />
+      <node id="1648" label="1648" />
+      <node id="1650" label="1650" />
+      <node id="1646" label="1646" />
+      <node id="1649" label="1649" />
+      <node id="1647" label="1647" />
+      <node id="1669" label="1669" />
+      <node id="1661" label="1661" />
+      <node id="1651" label="1651" />
+      <node id="1655" label="1655" />
+      <node id="1656" label="1656" />
+      <node id="1660" label="1660" />
+      <node id="1652" label="1652" />
+      <node id="1670" label="1670" />
+      <node id="1653" label="1653" />
+      <node id="1671" label="1671" />
+      <node id="1654" label="1654" />
+      <node id="1665" label="1665" />
+      <node id="1672" label="1672" />
+      <node id="1673" label="1673" />
+      <node id="1657" label="1657" />
+      <node id="1674" label="1674" />
+      <node id="1658" label="1658" />
+      <node id="1675" label="1675" />
+      <node id="1659" label="1659" />
+      <node id="1676" label="1676" />
+      <node id="1677" label="1677" />
+      <node id="1678" label="1678" />
+      <node id="1662" label="1662" />
+      <node id="1663" label="1663" />
+      <node id="1664" label="1664" />
+      <node id="1666" label="1666" />
+      <node id="1667" label="1667" />
+      <node id="1668" label="1668" />
+      <node id="1679" label="1679" />
+      <node id="1680" label="1680" />
+      <node id="1681" label="1681" />
+    </nodes>
+    <edges>
+      <edge id="0" source="1645" target="1644" />
+      <edge id="1" source="1645" target="1646" />
+      <edge id="2" source="1645" target="1649" />
+      <edge id="3" source="1644" target="1648" />
+      <edge id="4" source="1644" target="1650" />
+      <edge id="5" source="1648" target="1647" />
+      <edge id="6" source="1650" target="1656" />
+      <edge id="7" source="1650" target="1660" />
+      <edge id="8" source="1646" target="1647" />
+      <edge id="9" source="1646" target="1669" />
+      <edge id="10" source="1649" target="1651" />
+      <edge id="11" source="1649" target="1655" />
+      <edge id="12" source="1647" target="1661" />
+      <edge id="13" source="1661" target="1662" />
+      <edge id="14" source="1661" target="1663" />
+      <edge id="15" source="1661" target="1664" />
+      <edge id="16" source="1651" target="1652" />
+      <edge id="17" source="1651" target="1670" />
+      <edge id="18" source="1655" target="1654" />
+      <edge id="19" source="1655" target="1673" />
+      <edge id="20" source="1656" target="1657" />
+      <edge id="21" source="1656" target="1674" />
+      <edge id="22" source="1660" target="1659" />
+      <edge id="23" source="1660" target="1678" />
+      <edge id="24" source="1652" target="1653" />
+      <edge id="25" source="1652" target="1671" />
+      <edge id="26" source="1653" target="1654" />
+      <edge id="27" source="1653" target="1665" />
+      <edge id="28" source="1654" target="1672" />
+      <edge id="29" source="1665" target="1666" />
+      <edge id="30" source="1665" target="1667" />
+      <edge id="31" source="1665" target="1668" />
+      <edge id="32" source="1657" target="1658" />
+      <edge id="33" source="1657" target="1675" />
+      <edge id="34" source="1658" target="1659" />
+      <edge id="35" source="1658" target="1676" />
+      <edge id="36" source="1659" target="1677" />
+      <edge id="37" source="1668" target="1679" />
+      <edge id="38" source="1668" target="1680" />
+      <edge id="39" source="1668" target="1681" />
+    </edges>
+  </graph>
+</gexf>

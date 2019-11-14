@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="6" />
+      <node id="2" label="6" />
+      <node id="3" label="6" />
+      <node id="4" label="6" />
+      <node id="5" label="6" />
+      <node id="6" label="6" />
+      <node id="7" label="6" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="6" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="16" />
+      <node id="19" label="8" />
+      <node id="20" label="8" />
+      <node id="21" label="6" />
+      <node id="22" label="17" />
+      <node id="23" label="17" />
+      <node id="24" label="1" />
+      <node id="25" label="1" />
+      <node id="26" label="1" />
+      <node id="27" label="1" />
+      <node id="28" label="1" />
+      <node id="29" label="1" />
+      <node id="30" label="1" />
+      <node id="31" label="1" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="36" label="1" />
+      <node id="37" label="1" />
+      <node id="38" label="1" />
+      <node id="39" label="1" />
+      <node id="8020" label="8020" />
+      <node id="8019" label="8019" />
+      <node id="8023" label="8023" />
+      <node id="8025" label="8025" />
+      <node id="8021" label="8021" />
+      <node id="8024" label="8024" />
+      <node id="8022" label="8022" />
+      <node id="8042" label="8042" />
+      <node id="8043" label="8043" />
+      <node id="8044" label="8044" />
+      <node id="8045" label="8045" />
+      <node id="8046" label="8046" />
+      <node id="8047" label="8047" />
+      <node id="8026" label="8026" />
+      <node id="8030" label="8030" />
+      <node id="8031" label="8031" />
+      <node id="8035" label="8035" />
+      <node id="8027" label="8027" />
+      <node id="8048" label="8048" />
+      <node id="8028" label="8028" />
+      <node id="8049" label="8049" />
+      <node id="8029" label="8029" />
+      <node id="8036" label="8036" />
+      <node id="8050" label="8050" />
+      <node id="8051" label="8051" />
+      <node id="8032" label="8032" />
+      <node id="8052" label="8052" />
+      <node id="8033" label="8033" />
+      <node id="8041" label="8041" />
+      <node id="8034" label="8034" />
+      <node id="8040" label="8040" />
+      <node id="8053" label="8053" />
+      <node id="8054" label="8054" />
+      <node id="8037" label="8037" />
+      <node id="8038" label="8038" />
+      <node id="8039" label="8039" />
+      <node id="8055" label="8055" />
+      <node id="8056" label="8056" />
+      <node id="8057" label="8057" />
+    </nodes>
+    <edges>
+      <edge id="0" source="8020" target="8019" />
+      <edge id="1" source="8020" target="8021" />
+      <edge id="2" source="8020" target="8024" />
+      <edge id="3" source="8019" target="8023" />
+      <edge id="4" source="8019" target="8025" />
+      <edge id="5" source="8023" target="8022" />
+      <edge id="6" source="8023" target="8046" />
+      <edge id="7" source="8023" target="8047" />
+      <edge id="8" source="8025" target="8031" />
+      <edge id="9" source="8025" target="8035" />
+      <edge id="10" source="8021" target="8022" />
+      <edge id="11" source="8021" target="8042" />
+      <edge id="12" source="8021" target="8043" />
+      <edge id="13" source="8024" target="8026" />
+      <edge id="14" source="8024" target="8030" />
+      <edge id="15" source="8022" target="8044" />
+      <edge id="16" source="8022" target="8045" />
+      <edge id="17" source="8026" target="8027" />
+      <edge id="18" source="8026" target="8048" />
+      <edge id="19" source="8030" target="8029" />
+      <edge id="20" source="8030" target="8051" />
+      <edge id="21" source="8031" target="8032" />
+      <edge id="22" source="8031" target="8052" />
+      <edge id="23" source="8035" target="8034" />
+      <edge id="24" source="8035" target="8054" />
+      <edge id="25" source="8027" target="8028" />
+      <edge id="26" source="8027" target="8049" />
+      <edge id="27" source="8028" target="8029" />
+      <edge id="28" source="8028" target="8036" />
+      <edge id="29" source="8029" target="8050" />
+      <edge id="30" source="8036" target="8037" />
+      <edge id="31" source="8036" target="8038" />
+      <edge id="32" source="8036" target="8039" />
+      <edge id="33" source="8032" target="8033" />
+      <edge id="34" source="8032" target="8041" />
+      <edge id="35" source="8033" target="8034" />
+      <edge id="36" source="8033" target="8040" />
+      <edge id="37" source="8034" target="8053" />
+      <edge id="38" source="8039" target="8055" />
+      <edge id="39" source="8039" target="8056" />
+      <edge id="40" source="8039" target="8057" />
+    </edges>
+  </graph>
+</gexf>

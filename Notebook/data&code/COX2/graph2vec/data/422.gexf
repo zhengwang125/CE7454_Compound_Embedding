@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="6" />
+      <node id="2" label="6" />
+      <node id="3" label="7" />
+      <node id="4" label="6" />
+      <node id="5" label="16" />
+      <node id="6" label="6" />
+      <node id="7" label="6" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="6" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="9" />
+      <node id="19" label="16" />
+      <node id="20" label="8" />
+      <node id="21" label="8" />
+      <node id="22" label="6" />
+      <node id="23" label="6" />
+      <node id="24" label="6" />
+      <node id="25" label="6" />
+      <node id="26" label="6" />
+      <node id="27" label="6" />
+      <node id="28" label="6" />
+      <node id="29" label="6" />
+      <node id="30" label="6" />
+      <node id="31" label="6" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="36" label="1" />
+      <node id="37" label="1" />
+      <node id="38" label="1" />
+      <node id="39" label="1" />
+      <node id="40" label="1" />
+      <node id="41" label="1" />
+      <node id="42" label="1" />
+      <node id="43" label="1" />
+      <node id="44" label="1" />
+      <node id="45" label="1" />
+      <node id="46" label="1" />
+      <node id="47" label="1" />
+      <node id="48" label="1" />
+      <node id="49" label="1" />
+      <node id="50" label="1" />
+      <node id="51" label="1" />
+      <node id="52" label="1" />
+      <node id="53" label="1" />
+      <node id="17277" label="17277" />
+      <node id="17276" label="17276" />
+      <node id="17280" label="17280" />
+      <node id="17282" label="17282" />
+      <node id="17278" label="17278" />
+      <node id="17281" label="17281" />
+      <node id="17279" label="17279" />
+      <node id="17300" label="17300" />
+      <node id="17283" label="17283" />
+      <node id="17287" label="17287" />
+      <node id="17288" label="17288" />
+      <node id="17292" label="17292" />
+      <node id="17284" label="17284" />
+      <node id="17307" label="17307" />
+      <node id="17285" label="17285" />
+      <node id="17308" label="17308" />
+      <node id="17286" label="17286" />
+      <node id="17293" label="17293" />
+      <node id="17309" label="17309" />
+      <node id="17310" label="17310" />
+      <node id="17289" label="17289" />
+      <node id="17311" label="17311" />
+      <node id="17290" label="17290" />
+      <node id="17312" label="17312" />
+      <node id="17291" label="17291" />
+      <node id="17294" label="17294" />
+      <node id="17313" label="17313" />
+      <node id="17314" label="17314" />
+      <node id="17295" label="17295" />
+      <node id="17296" label="17296" />
+      <node id="17297" label="17297" />
+      <node id="17315" label="17315" />
+      <node id="17316" label="17316" />
+      <node id="17317" label="17317" />
+      <node id="17299" label="17299" />
+      <node id="17298" label="17298" />
+      <node id="17301" label="17301" />
+      <node id="17318" label="17318" />
+      <node id="17319" label="17319" />
+      <node id="17320" label="17320" />
+      <node id="17321" label="17321" />
+      <node id="17322" label="17322" />
+      <node id="17323" label="17323" />
+      <node id="17302" label="17302" />
+      <node id="17306" label="17306" />
+      <node id="17303" label="17303" />
+      <node id="17324" label="17324" />
+      <node id="17304" label="17304" />
+      <node id="17325" label="17325" />
+      <node id="17305" label="17305" />
+      <node id="17326" label="17326" />
+      <node id="17327" label="17327" />
+      <node id="17328" label="17328" />
+    </nodes>
+    <edges>
+      <edge id="0" source="17277" target="17276" />
+      <edge id="1" source="17277" target="17278" />
+      <edge id="2" source="17277" target="17281" />
+      <edge id="3" source="17276" target="17280" />
+      <edge id="4" source="17276" target="17282" />
+      <edge id="5" source="17280" target="17279" />
+      <edge id="6" source="17282" target="17288" />
+      <edge id="7" source="17282" target="17292" />
+      <edge id="8" source="17278" target="17279" />
+      <edge id="9" source="17281" target="17283" />
+      <edge id="10" source="17281" target="17287" />
+      <edge id="11" source="17279" target="17300" />
+      <edge id="12" source="17300" target="17299" />
+      <edge id="13" source="17300" target="17322" />
+      <edge id="14" source="17300" target="17323" />
+      <edge id="15" source="17283" target="17284" />
+      <edge id="16" source="17283" target="17307" />
+      <edge id="17" source="17287" target="17286" />
+      <edge id="18" source="17287" target="17310" />
+      <edge id="19" source="17288" target="17289" />
+      <edge id="20" source="17288" target="17311" />
+      <edge id="21" source="17292" target="17291" />
+      <edge id="22" source="17292" target="17314" />
+      <edge id="23" source="17284" target="17285" />
+      <edge id="24" source="17284" target="17308" />
+      <edge id="25" source="17285" target="17286" />
+      <edge id="26" source="17285" target="17293" />
+      <edge id="27" source="17286" target="17309" />
+      <edge id="28" source="17289" target="17290" />
+      <edge id="29" source="17289" target="17312" />
+      <edge id="30" source="17290" target="17291" />
+      <edge id="31" source="17290" target="17294" />
+      <edge id="32" source="17291" target="17313" />
+      <edge id="33" source="17294" target="17295" />
+      <edge id="34" source="17294" target="17296" />
+      <edge id="35" source="17294" target="17297" />
+      <edge id="36" source="17297" target="17315" />
+      <edge id="37" source="17297" target="17316" />
+      <edge id="38" source="17297" target="17317" />
+      <edge id="39" source="17299" target="17298" />
+      <edge id="40" source="17299" target="17320" />
+      <edge id="41" source="17299" target="17321" />
+      <edge id="42" source="17298" target="17301" />
+      <edge id="43" source="17298" target="17318" />
+      <edge id="44" source="17298" target="17319" />
+      <edge id="45" source="17301" target="17302" />
+      <edge id="46" source="17301" target="17306" />
+      <edge id="47" source="17302" target="17303" />
+      <edge id="48" source="17302" target="17324" />
+      <edge id="49" source="17306" target="17305" />
+      <edge id="50" source="17306" target="17328" />
+      <edge id="51" source="17303" target="17304" />
+      <edge id="52" source="17303" target="17325" />
+      <edge id="53" source="17304" target="17305" />
+      <edge id="54" source="17304" target="17326" />
+      <edge id="55" source="17305" target="17327" />
+    </edges>
+  </graph>
+</gexf>

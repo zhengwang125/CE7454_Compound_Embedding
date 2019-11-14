@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="6" />
+      <node id="2" label="6" />
+      <node id="3" label="6" />
+      <node id="4" label="6" />
+      <node id="5" label="6" />
+      <node id="6" label="6" />
+      <node id="7" label="6" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="6" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="16" />
+      <node id="19" label="8" />
+      <node id="20" label="8" />
+      <node id="21" label="7" />
+      <node id="22" label="17" />
+      <node id="23" label="17" />
+      <node id="24" label="1" />
+      <node id="25" label="1" />
+      <node id="26" label="1" />
+      <node id="27" label="1" />
+      <node id="28" label="1" />
+      <node id="29" label="1" />
+      <node id="30" label="1" />
+      <node id="31" label="1" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="36" label="1" />
+      <node id="37" label="1" />
+      <node id="38" label="1" />
+      <node id="8509" label="8509" />
+      <node id="8508" label="8508" />
+      <node id="8512" label="8512" />
+      <node id="8514" label="8514" />
+      <node id="8510" label="8510" />
+      <node id="8513" label="8513" />
+      <node id="8511" label="8511" />
+      <node id="8531" label="8531" />
+      <node id="8532" label="8532" />
+      <node id="8533" label="8533" />
+      <node id="8534" label="8534" />
+      <node id="8535" label="8535" />
+      <node id="8536" label="8536" />
+      <node id="8515" label="8515" />
+      <node id="8519" label="8519" />
+      <node id="8520" label="8520" />
+      <node id="8524" label="8524" />
+      <node id="8516" label="8516" />
+      <node id="8537" label="8537" />
+      <node id="8517" label="8517" />
+      <node id="8538" label="8538" />
+      <node id="8518" label="8518" />
+      <node id="8525" label="8525" />
+      <node id="8539" label="8539" />
+      <node id="8540" label="8540" />
+      <node id="8521" label="8521" />
+      <node id="8541" label="8541" />
+      <node id="8522" label="8522" />
+      <node id="8530" label="8530" />
+      <node id="8523" label="8523" />
+      <node id="8529" label="8529" />
+      <node id="8542" label="8542" />
+      <node id="8543" label="8543" />
+      <node id="8526" label="8526" />
+      <node id="8527" label="8527" />
+      <node id="8528" label="8528" />
+      <node id="8544" label="8544" />
+      <node id="8545" label="8545" />
+    </nodes>
+    <edges>
+      <edge id="0" source="8509" target="8508" />
+      <edge id="1" source="8509" target="8510" />
+      <edge id="2" source="8509" target="8513" />
+      <edge id="3" source="8508" target="8512" />
+      <edge id="4" source="8508" target="8514" />
+      <edge id="5" source="8512" target="8511" />
+      <edge id="6" source="8512" target="8535" />
+      <edge id="7" source="8512" target="8536" />
+      <edge id="8" source="8514" target="8520" />
+      <edge id="9" source="8514" target="8524" />
+      <edge id="10" source="8510" target="8511" />
+      <edge id="11" source="8510" target="8531" />
+      <edge id="12" source="8510" target="8532" />
+      <edge id="13" source="8513" target="8515" />
+      <edge id="14" source="8513" target="8519" />
+      <edge id="15" source="8511" target="8533" />
+      <edge id="16" source="8511" target="8534" />
+      <edge id="17" source="8515" target="8516" />
+      <edge id="18" source="8515" target="8537" />
+      <edge id="19" source="8519" target="8518" />
+      <edge id="20" source="8519" target="8540" />
+      <edge id="21" source="8520" target="8521" />
+      <edge id="22" source="8520" target="8541" />
+      <edge id="23" source="8524" target="8523" />
+      <edge id="24" source="8524" target="8543" />
+      <edge id="25" source="8516" target="8517" />
+      <edge id="26" source="8516" target="8538" />
+      <edge id="27" source="8517" target="8518" />
+      <edge id="28" source="8517" target="8525" />
+      <edge id="29" source="8518" target="8539" />
+      <edge id="30" source="8525" target="8526" />
+      <edge id="31" source="8525" target="8527" />
+      <edge id="32" source="8525" target="8528" />
+      <edge id="33" source="8521" target="8522" />
+      <edge id="34" source="8521" target="8530" />
+      <edge id="35" source="8522" target="8523" />
+      <edge id="36" source="8522" target="8529" />
+      <edge id="37" source="8523" target="8542" />
+      <edge id="38" source="8528" target="8544" />
+      <edge id="39" source="8528" target="8545" />
+    </edges>
+  </graph>
+</gexf>

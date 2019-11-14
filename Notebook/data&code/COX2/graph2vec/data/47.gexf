@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="6" />
+      <node id="2" label="7" />
+      <node id="3" label="6" />
+      <node id="4" label="6" />
+      <node id="5" label="7" />
+      <node id="6" label="6" />
+      <node id="7" label="6" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="6" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="6" />
+      <node id="19" label="9" />
+      <node id="20" label="9" />
+      <node id="21" label="9" />
+      <node id="22" label="9" />
+      <node id="23" label="16" />
+      <node id="24" label="8" />
+      <node id="25" label="8" />
+      <node id="26" label="7" />
+      <node id="27" label="1" />
+      <node id="28" label="1" />
+      <node id="29" label="1" />
+      <node id="30" label="1" />
+      <node id="31" label="1" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="36" label="1" />
+      <node id="37" label="1" />
+      <node id="2021" label="2021" />
+      <node id="2020" label="2020" />
+      <node id="2024" label="2024" />
+      <node id="2026" label="2026" />
+      <node id="2022" label="2022" />
+      <node id="2025" label="2025" />
+      <node id="2023" label="2023" />
+      <node id="2046" label="2046" />
+      <node id="2037" label="2037" />
+      <node id="2027" label="2027" />
+      <node id="2031" label="2031" />
+      <node id="2032" label="2032" />
+      <node id="2036" label="2036" />
+      <node id="2028" label="2028" />
+      <node id="2047" label="2047" />
+      <node id="2029" label="2029" />
+      <node id="2048" label="2048" />
+      <node id="2030" label="2030" />
+      <node id="2042" label="2042" />
+      <node id="2049" label="2049" />
+      <node id="2050" label="2050" />
+      <node id="2033" label="2033" />
+      <node id="2051" label="2051" />
+      <node id="2034" label="2034" />
+      <node id="2052" label="2052" />
+      <node id="2035" label="2035" />
+      <node id="2041" label="2041" />
+      <node id="2053" label="2053" />
+      <node id="2054" label="2054" />
+      <node id="2038" label="2038" />
+      <node id="2039" label="2039" />
+      <node id="2040" label="2040" />
+      <node id="2043" label="2043" />
+      <node id="2044" label="2044" />
+      <node id="2045" label="2045" />
+      <node id="2055" label="2055" />
+      <node id="2056" label="2056" />
+    </nodes>
+    <edges>
+      <edge id="0" source="2021" target="2020" />
+      <edge id="1" source="2021" target="2022" />
+      <edge id="2" source="2021" target="2025" />
+      <edge id="3" source="2020" target="2024" />
+      <edge id="4" source="2020" target="2026" />
+      <edge id="5" source="2024" target="2023" />
+      <edge id="6" source="2026" target="2032" />
+      <edge id="7" source="2026" target="2036" />
+      <edge id="8" source="2022" target="2023" />
+      <edge id="9" source="2022" target="2046" />
+      <edge id="10" source="2025" target="2027" />
+      <edge id="11" source="2025" target="2031" />
+      <edge id="12" source="2023" target="2037" />
+      <edge id="13" source="2037" target="2038" />
+      <edge id="14" source="2037" target="2039" />
+      <edge id="15" source="2037" target="2040" />
+      <edge id="16" source="2027" target="2028" />
+      <edge id="17" source="2027" target="2047" />
+      <edge id="18" source="2031" target="2030" />
+      <edge id="19" source="2031" target="2050" />
+      <edge id="20" source="2032" target="2033" />
+      <edge id="21" source="2032" target="2051" />
+      <edge id="22" source="2036" target="2035" />
+      <edge id="23" source="2036" target="2054" />
+      <edge id="24" source="2028" target="2029" />
+      <edge id="25" source="2028" target="2048" />
+      <edge id="26" source="2029" target="2030" />
+      <edge id="27" source="2029" target="2042" />
+      <edge id="28" source="2030" target="2049" />
+      <edge id="29" source="2042" target="2043" />
+      <edge id="30" source="2042" target="2044" />
+      <edge id="31" source="2042" target="2045" />
+      <edge id="32" source="2033" target="2034" />
+      <edge id="33" source="2033" target="2052" />
+      <edge id="34" source="2034" target="2035" />
+      <edge id="35" source="2034" target="2041" />
+      <edge id="36" source="2035" target="2053" />
+      <edge id="37" source="2045" target="2055" />
+      <edge id="38" source="2045" target="2056" />
+    </edges>
+  </graph>
+</gexf>

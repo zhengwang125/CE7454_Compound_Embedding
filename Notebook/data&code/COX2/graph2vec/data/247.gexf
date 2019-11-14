@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="6" />
+      <node id="2" label="6" />
+      <node id="3" label="6" />
+      <node id="4" label="6" />
+      <node id="5" label="6" />
+      <node id="6" label="6" />
+      <node id="7" label="6" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="6" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="6" />
+      <node id="19" label="16" />
+      <node id="20" label="8" />
+      <node id="21" label="8" />
+      <node id="22" label="7" />
+      <node id="23" label="9" />
+      <node id="24" label="9" />
+      <node id="25" label="6" />
+      <node id="26" label="8" />
+      <node id="27" label="6" />
+      <node id="28" label="1" />
+      <node id="29" label="1" />
+      <node id="30" label="1" />
+      <node id="31" label="1" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="36" label="1" />
+      <node id="37" label="1" />
+      <node id="38" label="1" />
+      <node id="39" label="1" />
+      <node id="40" label="1" />
+      <node id="41" label="1" />
+      <node id="42" label="1" />
+      <node id="43" label="1" />
+      <node id="44" label="1" />
+      <node id="10144" label="10144" />
+      <node id="10143" label="10143" />
+      <node id="10146" label="10146" />
+      <node id="10160" label="10160" />
+      <node id="10145" label="10145" />
+      <node id="10157" label="10157" />
+      <node id="10147" label="10147" />
+      <node id="10151" label="10151" />
+      <node id="10152" label="10152" />
+      <node id="10156" label="10156" />
+      <node id="10148" label="10148" />
+      <node id="10170" label="10170" />
+      <node id="10149" label="10149" />
+      <node id="10171" label="10171" />
+      <node id="10150" label="10150" />
+      <node id="10161" label="10161" />
+      <node id="10172" label="10172" />
+      <node id="10173" label="10173" />
+      <node id="10153" label="10153" />
+      <node id="10174" label="10174" />
+      <node id="10154" label="10154" />
+      <node id="10167" label="10167" />
+      <node id="10155" label="10155" />
+      <node id="10168" label="10168" />
+      <node id="10175" label="10175" />
+      <node id="10176" label="10176" />
+      <node id="10158" label="10158" />
+      <node id="10177" label="10177" />
+      <node id="10159" label="10159" />
+      <node id="10165" label="10165" />
+      <node id="10166" label="10166" />
+      <node id="10178" label="10178" />
+      <node id="10162" label="10162" />
+      <node id="10163" label="10163" />
+      <node id="10164" label="10164" />
+      <node id="10179" label="10179" />
+      <node id="10180" label="10180" />
+      <node id="10181" label="10181" />
+      <node id="10182" label="10182" />
+      <node id="10183" label="10183" />
+      <node id="10169" label="10169" />
+      <node id="10184" label="10184" />
+      <node id="10185" label="10185" />
+      <node id="10186" label="10186" />
+    </nodes>
+    <edges>
+      <edge id="0" source="10144" target="10143" />
+      <edge id="1" source="10144" target="10145" />
+      <edge id="2" source="10144" target="10157" />
+      <edge id="3" source="10143" target="10146" />
+      <edge id="4" source="10143" target="10160" />
+      <edge id="5" source="10146" target="10152" />
+      <edge id="6" source="10146" target="10156" />
+      <edge id="7" source="10160" target="10159" />
+      <edge id="8" source="10160" target="10178" />
+      <edge id="9" source="10145" target="10147" />
+      <edge id="10" source="10145" target="10151" />
+      <edge id="11" source="10157" target="10158" />
+      <edge id="12" source="10157" target="10177" />
+      <edge id="13" source="10147" target="10148" />
+      <edge id="14" source="10147" target="10170" />
+      <edge id="15" source="10151" target="10150" />
+      <edge id="16" source="10151" target="10173" />
+      <edge id="17" source="10152" target="10153" />
+      <edge id="18" source="10152" target="10174" />
+      <edge id="19" source="10156" target="10155" />
+      <edge id="20" source="10156" target="10176" />
+      <edge id="21" source="10148" target="10149" />
+      <edge id="22" source="10148" target="10171" />
+      <edge id="23" source="10149" target="10150" />
+      <edge id="24" source="10149" target="10161" />
+      <edge id="25" source="10150" target="10172" />
+      <edge id="26" source="10161" target="10162" />
+      <edge id="27" source="10161" target="10163" />
+      <edge id="28" source="10161" target="10164" />
+      <edge id="29" source="10153" target="10154" />
+      <edge id="30" source="10153" target="10167" />
+      <edge id="31" source="10154" target="10155" />
+      <edge id="32" source="10154" target="10168" />
+      <edge id="33" source="10167" target="10181" />
+      <edge id="34" source="10167" target="10182" />
+      <edge id="35" source="10167" target="10183" />
+      <edge id="36" source="10155" target="10175" />
+      <edge id="37" source="10168" target="10169" />
+      <edge id="38" source="10158" target="10159" />
+      <edge id="39" source="10158" target="10165" />
+      <edge id="40" source="10159" target="10166" />
+      <edge id="41" source="10164" target="10179" />
+      <edge id="42" source="10164" target="10180" />
+      <edge id="43" source="10169" target="10184" />
+      <edge id="44" source="10169" target="10185" />
+      <edge id="45" source="10169" target="10186" />
+    </edges>
+  </graph>
+</gexf>

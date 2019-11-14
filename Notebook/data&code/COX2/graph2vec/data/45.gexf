@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="6" />
+      <node id="2" label="7" />
+      <node id="3" label="6" />
+      <node id="4" label="6" />
+      <node id="5" label="7" />
+      <node id="6" label="6" />
+      <node id="7" label="6" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="6" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="6" />
+      <node id="19" label="9" />
+      <node id="20" label="9" />
+      <node id="21" label="9" />
+      <node id="22" label="16" />
+      <node id="23" label="8" />
+      <node id="24" label="8" />
+      <node id="25" label="6" />
+      <node id="26" label="16" />
+      <node id="27" label="8" />
+      <node id="28" label="8" />
+      <node id="29" label="6" />
+      <node id="30" label="1" />
+      <node id="31" label="1" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="36" label="1" />
+      <node id="37" label="1" />
+      <node id="38" label="1" />
+      <node id="39" label="1" />
+      <node id="40" label="1" />
+      <node id="41" label="1" />
+      <node id="42" label="1" />
+      <node id="43" label="1" />
+      <node id="44" label="1" />
+      <node id="1940" label="1940" />
+      <node id="1939" label="1939" />
+      <node id="1943" label="1943" />
+      <node id="1945" label="1945" />
+      <node id="1941" label="1941" />
+      <node id="1944" label="1944" />
+      <node id="1942" label="1942" />
+      <node id="1968" label="1968" />
+      <node id="1956" label="1956" />
+      <node id="1946" label="1946" />
+      <node id="1950" label="1950" />
+      <node id="1951" label="1951" />
+      <node id="1955" label="1955" />
+      <node id="1947" label="1947" />
+      <node id="1969" label="1969" />
+      <node id="1948" label="1948" />
+      <node id="1970" label="1970" />
+      <node id="1949" label="1949" />
+      <node id="1960" label="1960" />
+      <node id="1971" label="1971" />
+      <node id="1972" label="1972" />
+      <node id="1952" label="1952" />
+      <node id="1973" label="1973" />
+      <node id="1953" label="1953" />
+      <node id="1974" label="1974" />
+      <node id="1954" label="1954" />
+      <node id="1964" label="1964" />
+      <node id="1975" label="1975" />
+      <node id="1976" label="1976" />
+      <node id="1957" label="1957" />
+      <node id="1958" label="1958" />
+      <node id="1959" label="1959" />
+      <node id="1961" label="1961" />
+      <node id="1962" label="1962" />
+      <node id="1963" label="1963" />
+      <node id="1977" label="1977" />
+      <node id="1978" label="1978" />
+      <node id="1979" label="1979" />
+      <node id="1965" label="1965" />
+      <node id="1966" label="1966" />
+      <node id="1967" label="1967" />
+      <node id="1980" label="1980" />
+      <node id="1981" label="1981" />
+      <node id="1982" label="1982" />
+    </nodes>
+    <edges>
+      <edge id="0" source="1940" target="1939" />
+      <edge id="1" source="1940" target="1941" />
+      <edge id="2" source="1940" target="1944" />
+      <edge id="3" source="1939" target="1943" />
+      <edge id="4" source="1939" target="1945" />
+      <edge id="5" source="1943" target="1942" />
+      <edge id="6" source="1945" target="1951" />
+      <edge id="7" source="1945" target="1955" />
+      <edge id="8" source="1941" target="1942" />
+      <edge id="9" source="1941" target="1968" />
+      <edge id="10" source="1944" target="1946" />
+      <edge id="11" source="1944" target="1950" />
+      <edge id="12" source="1942" target="1956" />
+      <edge id="13" source="1956" target="1957" />
+      <edge id="14" source="1956" target="1958" />
+      <edge id="15" source="1956" target="1959" />
+      <edge id="16" source="1946" target="1947" />
+      <edge id="17" source="1946" target="1969" />
+      <edge id="18" source="1950" target="1949" />
+      <edge id="19" source="1950" target="1972" />
+      <edge id="20" source="1951" target="1952" />
+      <edge id="21" source="1951" target="1973" />
+      <edge id="22" source="1955" target="1954" />
+      <edge id="23" source="1955" target="1976" />
+      <edge id="24" source="1947" target="1948" />
+      <edge id="25" source="1947" target="1970" />
+      <edge id="26" source="1948" target="1949" />
+      <edge id="27" source="1948" target="1960" />
+      <edge id="28" source="1949" target="1971" />
+      <edge id="29" source="1960" target="1961" />
+      <edge id="30" source="1960" target="1962" />
+      <edge id="31" source="1960" target="1963" />
+      <edge id="32" source="1952" target="1953" />
+      <edge id="33" source="1952" target="1974" />
+      <edge id="34" source="1953" target="1954" />
+      <edge id="35" source="1953" target="1964" />
+      <edge id="36" source="1954" target="1975" />
+      <edge id="37" source="1964" target="1965" />
+      <edge id="38" source="1964" target="1966" />
+      <edge id="39" source="1964" target="1967" />
+      <edge id="40" source="1963" target="1977" />
+      <edge id="41" source="1963" target="1978" />
+      <edge id="42" source="1963" target="1979" />
+      <edge id="43" source="1967" target="1980" />
+      <edge id="44" source="1967" target="1981" />
+      <edge id="45" source="1967" target="1982" />
+    </edges>
+  </graph>
+</gexf>

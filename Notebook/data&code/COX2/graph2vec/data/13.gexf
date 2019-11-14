@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-11-12">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1" label="7" />
+      <node id="2" label="6" />
+      <node id="3" label="6" />
+      <node id="4" label="6" />
+      <node id="5" label="6" />
+      <node id="6" label="6" />
+      <node id="7" label="6" />
+      <node id="8" label="6" />
+      <node id="9" label="6" />
+      <node id="10" label="6" />
+      <node id="11" label="6" />
+      <node id="12" label="6" />
+      <node id="13" label="6" />
+      <node id="14" label="6" />
+      <node id="15" label="6" />
+      <node id="16" label="6" />
+      <node id="17" label="6" />
+      <node id="18" label="9" />
+      <node id="19" label="16" />
+      <node id="20" label="8" />
+      <node id="21" label="8" />
+      <node id="22" label="7" />
+      <node id="23" label="1" />
+      <node id="24" label="1" />
+      <node id="25" label="1" />
+      <node id="26" label="1" />
+      <node id="27" label="1" />
+      <node id="28" label="1" />
+      <node id="29" label="1" />
+      <node id="30" label="1" />
+      <node id="31" label="1" />
+      <node id="32" label="1" />
+      <node id="33" label="1" />
+      <node id="34" label="1" />
+      <node id="35" label="1" />
+      <node id="539" label="539" />
+      <node id="538" label="538" />
+      <node id="542" label="542" />
+      <node id="544" label="544" />
+      <node id="540" label="540" />
+      <node id="543" label="543" />
+      <node id="541" label="541" />
+      <node id="560" label="560" />
+      <node id="561" label="561" />
+      <node id="562" label="562" />
+      <node id="545" label="545" />
+      <node id="549" label="549" />
+      <node id="550" label="550" />
+      <node id="554" label="554" />
+      <node id="546" label="546" />
+      <node id="563" label="563" />
+      <node id="547" label="547" />
+      <node id="564" label="564" />
+      <node id="548" label="548" />
+      <node id="555" label="555" />
+      <node id="565" label="565" />
+      <node id="566" label="566" />
+      <node id="551" label="551" />
+      <node id="567" label="567" />
+      <node id="552" label="552" />
+      <node id="568" label="568" />
+      <node id="553" label="553" />
+      <node id="556" label="556" />
+      <node id="569" label="569" />
+      <node id="570" label="570" />
+      <node id="557" label="557" />
+      <node id="558" label="558" />
+      <node id="559" label="559" />
+      <node id="571" label="571" />
+      <node id="572" label="572" />
+    </nodes>
+    <edges>
+      <edge id="0" source="539" target="538" />
+      <edge id="1" source="539" target="540" />
+      <edge id="2" source="539" target="543" />
+      <edge id="3" source="538" target="542" />
+      <edge id="4" source="538" target="544" />
+      <edge id="5" source="542" target="541" />
+      <edge id="6" source="542" target="562" />
+      <edge id="7" source="544" target="550" />
+      <edge id="8" source="544" target="554" />
+      <edge id="9" source="540" target="541" />
+      <edge id="10" source="540" target="560" />
+      <edge id="11" source="543" target="545" />
+      <edge id="12" source="543" target="549" />
+      <edge id="13" source="541" target="561" />
+      <edge id="14" source="545" target="546" />
+      <edge id="15" source="545" target="563" />
+      <edge id="16" source="549" target="548" />
+      <edge id="17" source="549" target="566" />
+      <edge id="18" source="550" target="551" />
+      <edge id="19" source="550" target="567" />
+      <edge id="20" source="554" target="553" />
+      <edge id="21" source="554" target="570" />
+      <edge id="22" source="546" target="547" />
+      <edge id="23" source="546" target="564" />
+      <edge id="24" source="547" target="548" />
+      <edge id="25" source="547" target="555" />
+      <edge id="26" source="548" target="565" />
+      <edge id="27" source="551" target="552" />
+      <edge id="28" source="551" target="568" />
+      <edge id="29" source="552" target="553" />
+      <edge id="30" source="552" target="556" />
+      <edge id="31" source="553" target="569" />
+      <edge id="32" source="556" target="557" />
+      <edge id="33" source="556" target="558" />
+      <edge id="34" source="556" target="559" />
+      <edge id="35" source="559" target="571" />
+      <edge id="36" source="559" target="572" />
+    </edges>
+  </graph>
+</gexf>
